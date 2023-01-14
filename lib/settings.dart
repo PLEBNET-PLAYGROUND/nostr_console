@@ -57,7 +57,6 @@ Set<String> gListRelayUrls1 = { defaultServerUrl,
                                 "wss://nostr-2.zebedee.cloud",
                                 "wss://nostr.semisol.dev",
                                 "wss://nostr.coinos.io",
-                                "wss://nostr-relay.digitalmob.ro",
                                 "wss://nostr.drss.io",
                                 "wss://nostr.radixrat.com",
                                 "wss://relay.nostr.ch"
